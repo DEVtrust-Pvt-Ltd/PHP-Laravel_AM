@@ -1,2 +1,2 @@
-# PHP-Laravel_AM
-PHP-Laravel-Sample_Code
+# PHP-Laravel_Samplecode
+PHP Laravel
